@@ -127,7 +127,7 @@ Included visualizations:
 
 ## 🙏 Acknowledgements
 
-This project was created as part of the **BDAT 1009 – Enterprise Analytics** course at **Georgian College**.
+This project was developed to explore data-driven decision-making in the insurance industry using Power BI, with a focus on customer risk profiling, claim analysis, and upsell strategies
 
 ---
 
